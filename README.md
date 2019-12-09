@@ -6,7 +6,7 @@ A Web application companion for [JoplinApp](https://joplinapp.org)
 
 ## why that project ?
 
-Because it may happened we need to access to [JoplinApp](https://joplinapp.org) without having access to our smartphone or the Joplin Desktop, and a Web Application could to the trick at a given moment.
+Because it may happened we need to access to [JoplinApp](https://joplinapp.org) without having access to our smartphone or the Joplin Desktop, and a Web Application could do the trick at a given moment.
 
 ## Requirements
 
